@@ -1,0 +1,3 @@
+[ansiblec]
+anclient1.magesh.com
+anclient2.magesh.com
