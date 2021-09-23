@@ -3,4 +3,6 @@ anserver.magesh.com
 [ansiblec]
 anclient1.magesh.com
 anclient2.magesh.com
+[tower]
+anserver.magesh.com
 
